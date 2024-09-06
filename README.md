@@ -1,4 +1,4 @@
-# Olá, eu sou [João] 👋
+# Olá, eu sou João 👋
 
 ## Sobre Mim
 Atualmente Estou no 4º semestre do curso de **Sistemas de Informação (SI)**. Minha jornada na programação começou recentemente, e estou focado em me tornar um **Desenvolvedor Full Stack**. Sou apaixonado por tecnologia, e meu objetivo é construir soluções completas, desde o front-end até o back-end.
