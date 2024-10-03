@@ -26,7 +26,7 @@ Se você tem interesse em discutir sobre tecnologia, projetos de código aberto 
 
 
 
-  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joao-AlmeidaDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=FFF&text_color=FFF)
+ ![Linguagens Principais](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Joao-AlmeidaDev&layout=compact&bg_color=000&border_color=30A3DC&title_color=FFF&text_color=FFF)
 
 ---
 
